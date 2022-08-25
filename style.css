@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  height: 300px;
+  width: 650px;
+  border-radius: 25px;
+  border: 5px solid #4d3022;
+  overflow: hidden;
+  background-color: #d6d3c0;
+}
+
+.container-info {
+  padding-left: 5px;
+  align-self: center;
+  font-size: 1.2rem;
+}
+
+.container-info a {
+  color: #80603a;
+  text-decoration: none;
+  font-weight: bold;
+}
